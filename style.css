@@ -1,0 +1,62 @@
+body{
+ background: linear-gradient(white, lightblue);
+ background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+h1{
+    color: black;
+    border: solid;
+    
+}
+
+
+
+div{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    border: solid ;
+    border-radius: 5px;
+    border-width: 1px;
+    
+}
+
+.map{
+border: none;
+
+}
+
+
+ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: whitesmoke;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    
+  }
+  
+  li {
+    
+    float: left;
+  }
+  
+  li a {
+    
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+  
+  li a:hover {
+    background-color:lightblue;
+  
+}
