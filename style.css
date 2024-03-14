@@ -16,9 +16,11 @@ div{
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: black;
     text-align: center;
-    border: solid ;
-    border-radius: 5px;
-    border-width: 1px;
+    border: none ;
+    
+   
+    width: 50%;
+    margin: auto;
     
 }
 
@@ -58,5 +60,12 @@ ul {
   
   li a:hover {
     background-color:lightblue;
+  
+}
+
+
+.bck{ 
+      border: none; 
+      
   
 }
